@@ -1,16 +1,13 @@
-### Hi there 👋
+### <p align = "center"><b>Hi there</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Aman Vishnoi from India </p>
+<hr />
 
-<!--
-**VishnoiAman777/vishnoiaman777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=VishnoiAman777&show_icons=true&hide_border=True" alt="AmanVishnoi" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![](https://komarev.com/ghpvc/?username=VishnoiAman777&color=008080&style=plastic)
+</div>
+
+### <p align = "center">I am a sophomore at IIT Bhilai who is data enusiastic and a web developer who loves to learn about new technologies and advancements in the field of Machine Learning and AI</p>
+
+
