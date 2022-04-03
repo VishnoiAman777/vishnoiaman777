@@ -8,6 +8,4 @@
   ![](https://komarev.com/ghpvc/?username=VishnoiAman777&color=008080&style=plastic)
 </div>
 
-### <p align = "center">I am a sophomore at IIT Bhilai who is data enusiastic and a web developer who loves to learn about new technologies and advancements in the field of Machine Learning and AI</p>
-
 
